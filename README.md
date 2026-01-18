@@ -1,2 +1,2 @@
 # CTCF_dimer
-This repository contains the scripts for the CTCF dimer paper
+This repository contains all scripts I used to generate the relevant figures for the CTCF dimer paper. Specifically, it include two parts:
