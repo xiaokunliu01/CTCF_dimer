@@ -1,6 +1,6 @@
 # CTCF_dimer
-This repository contains all scripts I used to generate the relevant figures for the CTCF dimer paper. Specifically, it include:  
-1. Scripts for alignment of Footprint-C and spDamID-seq data.  
-2. Sripts for figures, and scripts are numbered by figure numbers in main text (Fig) and supplementary data (FigS).
+This repository contains all scripts used to generate the figures for the CTCF dimer paper. Specifically, it include:  
+1. Scripts for aligning Footprint-C and spDamID-seq datasets (Alignment scripts for HiChIP and re-HiChIP are identical to those for Footprint-C).  
+2. Sripts for generating figures, numbered according to their corresponding figure labels in the main text (Fig) and supplementary materials (FigS).
 
-Note: Many libraries used by these scripts are not included in the setup files and must be installed separately in R or Python.
+Note: Many of the required R and Python libraries are not included in the provided setup files and must be installed separately.
